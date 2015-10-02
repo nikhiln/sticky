@@ -33,7 +33,7 @@
             "url": "http://jquery.com/blob/master/GPL-LICENSE.txt"
         }
     ],
-    "github": "https://github.com/garand/sticky",
+    "github": "https://github.com/nikhiln/sticky",
 
     "main": "jquery.sticky.js",
     "dependencies": {
